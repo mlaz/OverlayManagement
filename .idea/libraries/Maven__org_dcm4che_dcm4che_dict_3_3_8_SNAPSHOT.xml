@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.dcm4che:dcm4che-dict:3.3.8-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dcm4che/dcm4che-dict/3.3.8-SNAPSHOT/dcm4che-dict-3.3.8-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dcm4che/dcm4che-dict/3.3.8-SNAPSHOT/dcm4che-dict-3.3.8-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/dcm4che/dcm4che-dict/3.3.8-SNAPSHOT/dcm4che-dict-3.3.8-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
